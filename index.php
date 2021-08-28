@@ -1,3 +1,4 @@
 <?
 echo "merhaba";
+echo "deneme";
 ?>
